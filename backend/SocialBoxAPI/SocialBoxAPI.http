@@ -1,6 +1,0 @@
-@SocialBoxAPI_HostAddress = http://localhost:5191
-
-GET {{SocialBoxAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
