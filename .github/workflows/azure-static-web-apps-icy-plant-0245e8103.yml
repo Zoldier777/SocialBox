@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - frontend/**
-      - .github/workflowsazure-static-web-apps-icy-plant-0245e8103.yml
+      - .github/workflows/azure-static-web-apps-icy-plant-0245e8103.yml
   pull_request:
     types: [opened, synchronize, reopened, closed]
     branches:
